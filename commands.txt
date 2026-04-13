@@ -1,0 +1,8 @@
+echo git init > commands.txt
+echo git status >> commands.txt
+echo git add . >> commands.txt
+echo git commit -m "message" >> commands.txt
+echo git branch >> commands.txt
+echo git checkout feature >> commands.txt
+echo git merge feature >> commands.txt
+echo git push >> commands.txt
